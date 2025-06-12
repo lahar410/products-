@@ -1,0 +1,1063 @@
+[
+  {
+    "comboSku": "K-6287",
+    "actualWeight": 22.264,
+    "calculatedWeight": 1.1132000000000002,
+    "difference": "21.15080",
+    "skus": [
+      "K-6372",
+      "K-6130",
+      "K-6129"
+    ]
+  },
+  {
+    "comboSku": "K-6455",
+    "actualWeight": 1.155,
+    "calculatedWeight": 0.385,
+    "difference": "0.77000",
+    "skus": [
+      "K-5280",
+      "K-5770"
+    ]
+  },
+  {
+    "comboSku": "K-1071",
+    "actualWeight": 10.384,
+    "calculatedWeight": 0.5192,
+    "difference": "9.86480",
+    "skus": [
+      "K-09",
+      "K-6130",
+      "K-6129"
+    ]
+  },
+  {
+    "comboSku": "K-7336",
+    "actualWeight": 0.65,
+    "calculatedWeight": 0.66,
+    "difference": "0.01000",
+    "skus": [
+      "K-317",
+      "K-58",
+      "K-6367"
+    ]
+  },
+  {
+    "comboSku": "K-7343",
+    "actualWeight": 13.75,
+    "calculatedWeight": 1.375,
+    "difference": "12.37500",
+    "skus": [
+      "K-141",
+      "K-6227"
+    ]
+  },
+  {
+    "comboSku": "K-5701",
+    "actualWeight": 2.2,
+    "calculatedWeight": 1.9250000000000003,
+    "difference": "0.27500",
+    "skus": [
+      "K-344",
+      "K-5867",
+      "K-6565"
+    ]
+  },
+  {
+    "comboSku": "K-7346",
+    "actualWeight": 1.925,
+    "calculatedWeight": 0.385,
+    "difference": "1.54000",
+    "skus": [
+      "K-52",
+      "K-06"
+    ]
+  },
+  {
+    "comboSku": "K-7427",
+    "actualWeight": 0.528,
+    "calculatedWeight": 0.176,
+    "difference": "0.35200",
+    "skus": [
+      "K-1359",
+      "K-65"
+    ]
+  },
+  {
+    "comboSku": "K-6466",
+    "actualWeight": 1.1,
+    "calculatedWeight": 0.55,
+    "difference": "0.55000",
+    "skus": [
+      "K-5564",
+      "K-5416"
+    ]
+  },
+  {
+    "comboSku": "K-7341",
+    "actualWeight": 4.125,
+    "calculatedWeight": 1.375,
+    "difference": "2.75000",
+    "skus": [
+      "K-141",
+      "K-6227"
+    ]
+  },
+  {
+    "comboSku": "K-6467",
+    "actualWeight": 3.3,
+    "calculatedWeight": 0.55,
+    "difference": "2.75000",
+    "skus": [
+      "K-5564",
+      "K-5416"
+    ]
+  },
+  {
+    "comboSku": "K-6453",
+    "actualWeight": 5.5,
+    "calculatedWeight": 0.55,
+    "difference": "4.95000",
+    "skus": [
+      "K-6473",
+      "K-6144"
+    ]
+  },
+  {
+    "comboSku": "K-5189",
+    "actualWeight": 6.65,
+    "calculatedWeight": 1.33,
+    "difference": "5.32000",
+    "skus": [
+      "K-5106",
+      "K-5127"
+    ]
+  },
+  {
+    "comboSku": "K-6431",
+    "actualWeight": 99,
+    "calculatedWeight": 9.9,
+    "difference": "89.10000",
+    "skus": [
+      "K-6432",
+      "K-5806"
+    ]
+  },
+  {
+    "comboSku": "K-6284",
+    "actualWeight": 3.3396,
+    "calculatedWeight": 1.1132000000000002,
+    "difference": "2.22640",
+    "skus": [
+      "K-6372",
+      "K-6130",
+      "K-6129"
+    ]
+  },
+  {
+    "comboSku": "K-1027",
+    "actualWeight": 1.98,
+    "calculatedWeight": 0.99,
+    "difference": "0.99000",
+    "skus": [
+      "K-403",
+      "K-561"
+    ]
+  },
+  {
+    "comboSku": "K-6465",
+    "actualWeight": 6.05,
+    "calculatedWeight": 0.33,
+    "difference": "5.72000",
+    "skus": [
+      "K-5564",
+      "K-6474"
+    ]
+  },
+  {
+    "comboSku": "K-6461",
+    "actualWeight": 22,
+    "calculatedWeight": 2.2,
+    "difference": "19.80000",
+    "skus": [
+      "K-458",
+      "K-252"
+    ]
+  },
+  {
+    "comboSku": "K-6501",
+    "actualWeight": 9.1828,
+    "calculatedWeight": 8.283000000000001,
+    "difference": "0.89980",
+    "skus": [
+      "K-24",
+      "K-5680",
+      "K-336",
+      "K-442",
+      "K-5971",
+      "K-382",
+      "K-5754",
+      "K-409",
+      "K-5753",
+      "K-489",
+      "K-5551",
+      "K-06",
+      "K-1395",
+      "K-501",
+      "K-1266"
+    ]
+  },
+  {
+    "comboSku": "K-7061",
+    "actualWeight": 7.725,
+    "calculatedWeight": 0.515,
+    "difference": "7.21000",
+    "skus": [
+      "K-5187",
+      "K-6002"
+    ]
+  },
+  {
+    "comboSku": "K-6429",
+    "actualWeight": 29.7,
+    "calculatedWeight": 9.9,
+    "difference": "19.80000",
+    "skus": [
+      "K-6432",
+      "K-5806"
+    ]
+  },
+  {
+    "comboSku": "K-7060",
+    "actualWeight": 6.18,
+    "calculatedWeight": 0.515,
+    "difference": "5.66500",
+    "skus": [
+      "K-5187",
+      "K-6002"
+    ]
+  },
+  {
+    "comboSku": "K-6442",
+    "actualWeight": 0.66,
+    "calculatedWeight": 0.385,
+    "difference": "0.27500",
+    "skus": [
+      "K-5416",
+      "K-416"
+    ]
+  },
+  {
+    "comboSku": "K-6663",
+    "actualWeight": 3.345,
+    "calculatedWeight": 2.245,
+    "difference": "1.10000",
+    "skus": [
+      "G-104",
+      "K-1134",
+      "K-5422"
+    ]
+  },
+  {
+    "comboSku": "K-7342",
+    "actualWeight": 6.875,
+    "calculatedWeight": 1.375,
+    "difference": "5.50000",
+    "skus": [
+      "K-141",
+      "K-6227"
+    ]
+  },
+  {
+    "comboSku": "K-7057",
+    "actualWeight": 1.545,
+    "calculatedWeight": 0.515,
+    "difference": "1.03000",
+    "skus": [
+      "K-5187",
+      "K-6002"
+    ]
+  },
+  {
+    "comboSku": "K-7279",
+    "actualWeight": 2.09,
+    "calculatedWeight": 1.8150000000000002,
+    "difference": "0.27500",
+    "skus": [
+      "K-444",
+      "K-6723",
+      "K-5224"
+    ]
+  },
+  {
+    "comboSku": "K-7347",
+    "actualWeight": 3.85,
+    "calculatedWeight": 0.385,
+    "difference": "3.46500",
+    "skus": [
+      "K-52",
+      "K-06"
+    ]
+  },
+  {
+    "comboSku": "K-7354",
+    "actualWeight": 2.75,
+    "calculatedWeight": 0.55,
+    "difference": "2.20000",
+    "skus": [
+      "K-5803",
+      "K-7274"
+    ]
+  },
+  {
+    "comboSku": "K-6596",
+    "actualWeight": 4.324,
+    "calculatedWeight": 3.2569999999999997,
+    "difference": "1.06700",
+    "skus": [
+      "K-02",
+      "G-06",
+      "K-1192"
+    ]
+  },
+  {
+    "comboSku": "K-6464",
+    "actualWeight": 3.025,
+    "calculatedWeight": 0.33,
+    "difference": "2.69500",
+    "skus": [
+      "K-5564",
+      "K-6474"
+    ]
+  },
+  {
+    "comboSku": "K-1055",
+    "actualWeight": 1.98,
+    "calculatedWeight": 0.66,
+    "difference": "1.32000",
+    "skus": [
+      "K-388",
+      "K-58",
+      "K-06"
+    ]
+  },
+  {
+    "comboSku": "K-7050",
+    "actualWeight": 1.375,
+    "calculatedWeight": 1.1,
+    "difference": "0.27500",
+    "skus": [
+      "K-6426",
+      "K-5416",
+      "K-58"
+    ]
+  },
+  {
+    "comboSku": "K-7339",
+    "actualWeight": 6.6,
+    "calculatedWeight": 0.66,
+    "difference": "5.94000",
+    "skus": [
+      "K-317",
+      "K-58",
+      "K-6367"
+    ]
+  },
+  {
+    "comboSku": "K-7269",
+    "actualWeight": 0.935,
+    "calculatedWeight": 0.66,
+    "difference": "0.27500",
+    "skus": [
+      "K-987",
+      "K-5568",
+      "K-6723"
+    ]
+  },
+  {
+    "comboSku": "G-498",
+    "actualWeight": 0,
+    "calculatedWeight": 1.078,
+    "difference": "1.07800",
+    "skus": [
+      "K-06",
+      "K-5079"
+    ]
+  },
+  {
+    "comboSku": "K-7560",
+    "actualWeight": 43.45,
+    "calculatedWeight": 6.545,
+    "difference": "36.90500",
+    "skus": [
+      "K-40",
+      "K-59",
+      "K-158",
+      "K-5680"
+    ]
+  },
+  {
+    "comboSku": "K-6488",
+    "actualWeight": 1.1,
+    "calculatedWeight": 0.22,
+    "difference": "0.88000",
+    "skus": [
+      "K-65",
+      "K-409"
+    ]
+  },
+  {
+    "comboSku": "G-485",
+    "actualWeight": 0,
+    "calculatedWeight": 0.066,
+    "difference": "0.06600",
+    "skus": [
+      "K-909",
+      "K-893",
+      "K-924"
+    ]
+  },
+  {
+    "comboSku": "K-7337",
+    "actualWeight": 1.98,
+    "calculatedWeight": 0.66,
+    "difference": "1.32000",
+    "skus": [
+      "K-317",
+      "K-58",
+      "K-6367"
+    ]
+  },
+  {
+    "comboSku": "K-7561",
+    "actualWeight": 35.1,
+    "calculatedWeight": 6.359,
+    "difference": "28.74100",
+    "skus": [
+      "K-5689",
+      "K-304",
+      "K-5767",
+      "K-986",
+      "K-599"
+    ]
+  },
+  {
+    "comboSku": "K-7320",
+    "actualWeight": 14.3,
+    "calculatedWeight": 2.5850000000000004,
+    "difference": "11.71500",
+    "skus": [
+      "K-1200",
+      "K-5428",
+      "K-388",
+      "K-489",
+      "K-141",
+      "K-353",
+      "K-1359"
+    ]
+  },
+  {
+    "comboSku": "K-6449",
+    "actualWeight": 5.5,
+    "calculatedWeight": 0.55,
+    "difference": "4.95000",
+    "skus": [
+      "K-5545",
+      "K-5582"
+    ]
+  },
+  {
+    "comboSku": "K-6445",
+    "actualWeight": 6.6,
+    "calculatedWeight": 0.385,
+    "difference": "6.21500",
+    "skus": [
+      "K-5416",
+      "K-416"
+    ]
+  },
+  {
+    "comboSku": "K-6451",
+    "actualWeight": 1.65,
+    "calculatedWeight": 0.55,
+    "difference": "1.10000",
+    "skus": [
+      "K-6473",
+      "K-6144"
+    ]
+  },
+  {
+    "comboSku": "K-6677",
+    "actualWeight": 8.8,
+    "calculatedWeight": 1.7600000000000002,
+    "difference": "7.04000",
+    "skus": [
+      "K-5645",
+      "K-06",
+      "K-52",
+      "K-6227"
+    ]
+  },
+  {
+    "comboSku": "K-7062",
+    "actualWeight": 0.5082,
+    "calculatedWeight": 0.5132,
+    "difference": "0.00500",
+    "skus": [
+      "K-5755",
+      "K-568"
+    ]
+  },
+  {
+    "comboSku": "K-6676",
+    "actualWeight": 5.28,
+    "calculatedWeight": 1.7600000000000002,
+    "difference": "3.52000",
+    "skus": [
+      "K-5645",
+      "K-06",
+      "K-52",
+      "K-6227"
+    ]
+  },
+  {
+    "comboSku": "K-6444",
+    "actualWeight": 3.3,
+    "calculatedWeight": 0.385,
+    "difference": "2.91500",
+    "skus": [
+      "K-5416",
+      "K-416"
+    ]
+  },
+  {
+    "comboSku": "K-6457",
+    "actualWeight": 3.85,
+    "calculatedWeight": 0.385,
+    "difference": "3.46500",
+    "skus": [
+      "K-5280",
+      "K-5770"
+    ]
+  },
+  {
+    "comboSku": "G-496",
+    "actualWeight": 0,
+    "calculatedWeight": 1.54,
+    "difference": "1.54000",
+    "skus": [
+      "K-81",
+      "K-986"
+    ]
+  },
+  {
+    "comboSku": "K-6587",
+    "actualWeight": 1.32,
+    "calculatedWeight": 0.132,
+    "difference": "1.18800",
+    "skus": [
+      "K-6581",
+      "K-5002",
+      "K-6129"
+    ]
+  },
+  {
+    "comboSku": "K-6443",
+    "actualWeight": 1.98,
+    "calculatedWeight": 0.385,
+    "difference": "1.59500",
+    "skus": [
+      "K-5416",
+      "K-416"
+    ]
+  },
+  {
+    "comboSku": "K-5685",
+    "actualWeight": 2.145,
+    "calculatedWeight": 0.605,
+    "difference": "1.54000",
+    "skus": [
+      "K-141",
+      "K-30",
+      "K-355"
+    ]
+  },
+  {
+    "comboSku": "K-5316",
+    "actualWeight": 1.21,
+    "calculatedWeight": 0.605,
+    "difference": "0.60500",
+    "skus": [
+      "K-5645",
+      "K-217",
+      "K-443"
+    ]
+  },
+  {
+    "comboSku": "K-6841",
+    "actualWeight": 0.19,
+    "calculatedWeight": 0.187,
+    "difference": "0.00300",
+    "skus": [
+      "K-176",
+      "K-1266",
+      "K-65"
+    ]
+  },
+  {
+    "comboSku": "K-6456",
+    "actualWeight": 1.925,
+    "calculatedWeight": 0.385,
+    "difference": "1.54000",
+    "skus": [
+      "K-5280",
+      "K-5770"
+    ]
+  },
+  {
+    "comboSku": "K-7338",
+    "actualWeight": 0,
+    "calculatedWeight": 0.66,
+    "difference": "0.66000",
+    "skus": [
+      "K-317",
+      "K-58",
+      "K-6367"
+    ]
+  },
+  {
+    "comboSku": "K-6656",
+    "actualWeight": 1.76,
+    "calculatedWeight": 1.485,
+    "difference": "0.27500",
+    "skus": [
+      "K-5626",
+      "K-6659",
+      "K-409"
+    ]
+  },
+  {
+    "comboSku": "K-6459",
+    "actualWeight": 6.6,
+    "calculatedWeight": 2.2,
+    "difference": "4.40000",
+    "skus": [
+      "K-458",
+      "K-252"
+    ]
+  },
+  {
+    "comboSku": "K-7428",
+    "actualWeight": 0.88,
+    "calculatedWeight": 0.176,
+    "difference": "0.70400",
+    "skus": [
+      "K-1359",
+      "K-65"
+    ]
+  },
+  {
+    "comboSku": "K-6462",
+    "actualWeight": 0.605,
+    "calculatedWeight": 0.33,
+    "difference": "0.27500",
+    "skus": [
+      "K-5564",
+      "K-6474"
+    ]
+  },
+  {
+    "comboSku": "K-7429",
+    "actualWeight": 1.76,
+    "calculatedWeight": 0.176,
+    "difference": "1.58400",
+    "skus": [
+      "K-1359",
+      "K-65"
+    ]
+  },
+  {
+    "comboSku": "K-6430",
+    "actualWeight": 49.5,
+    "calculatedWeight": 9.9,
+    "difference": "39.60000",
+    "skus": [
+      "K-6432",
+      "K-5806"
+    ]
+  },
+  {
+    "comboSku": "K-6065",
+    "actualWeight": 5.192,
+    "calculatedWeight": 0.5192,
+    "difference": "4.67280",
+    "skus": [
+      "K-09",
+      "K-6130",
+      "K-6129"
+    ]
+  },
+  {
+    "comboSku": "K-6447",
+    "actualWeight": 1.65,
+    "calculatedWeight": 0.55,
+    "difference": "1.10000",
+    "skus": [
+      "K-5545",
+      "K-5582"
+    ]
+  },
+  {
+    "comboSku": "K-6452",
+    "actualWeight": 2.75,
+    "calculatedWeight": 0.55,
+    "difference": "2.20000",
+    "skus": [
+      "K-6473",
+      "K-6144"
+    ]
+  },
+  {
+    "comboSku": "K-6586",
+    "actualWeight": 0.66,
+    "calculatedWeight": 0.132,
+    "difference": "0.52800",
+    "skus": [
+      "K-6581",
+      "K-5002",
+      "K-6129"
+    ]
+  },
+  {
+    "comboSku": "K-7559",
+    "actualWeight": 16.5,
+    "calculatedWeight": 0.8580000000000001,
+    "difference": "15.64200",
+    "skus": [
+      "K-1249",
+      "K-5753",
+      "K-489",
+      "K-1387",
+      "K-433"
+    ]
+  },
+  {
+    "comboSku": "K-6285",
+    "actualWeight": 5.566,
+    "calculatedWeight": 1.1132000000000002,
+    "difference": "4.45280",
+    "skus": [
+      "K-6372",
+      "K-6130",
+      "K-6129"
+    ]
+  },
+  {
+    "comboSku": "K-7344",
+    "actualWeight": 0,
+    "calculatedWeight": 0.385,
+    "difference": "0.38500",
+    "skus": [
+      "K-52",
+      "K-06"
+    ]
+  },
+  {
+    "comboSku": "K-6132",
+    "actualWeight": 25.96,
+    "calculatedWeight": 0.5192,
+    "difference": "25.44080",
+    "skus": [
+      "K-09",
+      "K-6130",
+      "K-6129"
+    ]
+  },
+  {
+    "comboSku": "K-7352",
+    "actualWeight": 1.1,
+    "calculatedWeight": 0.55,
+    "difference": "0.55000",
+    "skus": [
+      "K-5803",
+      "K-7274"
+    ]
+  },
+  {
+    "comboSku": "K-7355",
+    "actualWeight": 5.5,
+    "calculatedWeight": 0.55,
+    "difference": "4.95000",
+    "skus": [
+      "K-5803",
+      "K-7274"
+    ]
+  },
+  {
+    "comboSku": "K-6286",
+    "actualWeight": 11.132,
+    "calculatedWeight": 1.1132000000000002,
+    "difference": "10.01880",
+    "skus": [
+      "K-6372",
+      "K-6130",
+      "K-6129"
+    ]
+  },
+  {
+    "comboSku": "K-5906",
+    "actualWeight": 16.082,
+    "calculatedWeight": 13.992,
+    "difference": "2.09000",
+    "skus": [
+      "K-5810",
+      "K-165",
+      "K-5908",
+      "K-5046",
+      "K-5907",
+      "K-5642"
+    ]
+  },
+  {
+    "comboSku": "K-7322",
+    "actualWeight": 15.1272,
+    "calculatedWeight": 3.7037000000000004,
+    "difference": "11.42350",
+    "skus": [
+      "K-06",
+      "K-5358",
+      "K-6040",
+      "K-361",
+      "K-141",
+      "K-1200",
+      "K-5730",
+      "K-501"
+    ]
+  },
+  {
+    "comboSku": "K-6460",
+    "actualWeight": 11,
+    "calculatedWeight": 2.2,
+    "difference": "8.80000",
+    "skus": [
+      "K-458",
+      "K-252"
+    ]
+  },
+  {
+    "comboSku": "K-6463",
+    "actualWeight": 1.815,
+    "calculatedWeight": 0.33,
+    "difference": "1.48500",
+    "skus": [
+      "K-5564",
+      "K-6474"
+    ]
+  },
+  {
+    "comboSku": "K-6468",
+    "actualWeight": 5.5,
+    "calculatedWeight": 0.55,
+    "difference": "4.95000",
+    "skus": [
+      "K-5564",
+      "K-5416"
+    ]
+  },
+  {
+    "comboSku": "K-7345",
+    "actualWeight": 1.155,
+    "calculatedWeight": 0.385,
+    "difference": "0.77000",
+    "skus": [
+      "K-52",
+      "K-06"
+    ]
+  },
+  {
+    "comboSku": "K-5954",
+    "actualWeight": 1.32,
+    "calculatedWeight": 1.2100000000000002,
+    "difference": "0.11000",
+    "skus": [
+      "K-5754",
+      "K-5475"
+    ]
+  },
+  {
+    "comboSku": "K-7254",
+    "actualWeight": 0.83,
+    "calculatedWeight": 0.8250000000000001,
+    "difference": "0.00500",
+    "skus": [
+      "K-7241",
+      "K-336"
+    ]
+  },
+  {
+    "comboSku": "K-6469",
+    "actualWeight": 11,
+    "calculatedWeight": 0.55,
+    "difference": "10.45000",
+    "skus": [
+      "K-5564",
+      "K-5416"
+    ]
+  },
+  {
+    "comboSku": "K-5968",
+    "actualWeight": 1.21,
+    "calculatedWeight": 0.605,
+    "difference": "0.60500",
+    "skus": [
+      "K-6274",
+      "K-158"
+    ]
+  },
+  {
+    "comboSku": "K-7321",
+    "actualWeight": 6.38,
+    "calculatedWeight": 2.5850000000000004,
+    "difference": "3.79500",
+    "skus": [
+      "K-1200",
+      "K-5428",
+      "K-388",
+      "K-489",
+      "K-141",
+      "K-353",
+      "K-1359"
+    ]
+  },
+  {
+    "comboSku": "K-7353",
+    "actualWeight": 1.65,
+    "calculatedWeight": 0.55,
+    "difference": "1.10000",
+    "skus": [
+      "K-5803",
+      "K-7274"
+    ]
+  },
+  {
+    "comboSku": "K-7058",
+    "actualWeight": 2.575,
+    "calculatedWeight": 0.515,
+    "difference": "2.06000",
+    "skus": [
+      "K-5187",
+      "K-6002"
+    ]
+  },
+  {
+    "comboSku": "K-5942",
+    "actualWeight": 0,
+    "calculatedWeight": 0.99,
+    "difference": "0.99000",
+    "skus": [
+      "K-5567",
+      "K-24"
+    ]
+  },
+  {
+    "comboSku": "K-5928",
+    "actualWeight": 0,
+    "calculatedWeight": 0.55,
+    "difference": "0.55000",
+    "skus": [
+      "K-5803",
+      "K-7274"
+    ]
+  },
+  {
+    "comboSku": "K-7434",
+    "actualWeight": 0.352,
+    "calculatedWeight": 0.176,
+    "difference": "0.17600",
+    "skus": [
+      "K-1359",
+      "K-65"
+    ]
+  },
+  {
+    "comboSku": "G-502",
+    "actualWeight": 0,
+    "calculatedWeight": 1.606,
+    "difference": "1.60600",
+    "skus": [
+      "K-1272",
+      "K-478"
+    ]
+  },
+  {
+    "comboSku": "K-6448",
+    "actualWeight": 2.75,
+    "calculatedWeight": 0.55,
+    "difference": "2.20000",
+    "skus": [
+      "K-5545",
+      "K-5582"
+    ]
+  },
+  {
+    "comboSku": "K-6411",
+    "actualWeight": 11,
+    "calculatedWeight": 9.9,
+    "difference": "1.10000",
+    "skus": [
+      "K-6292",
+      "K-85",
+      "K-24",
+      "K-51",
+      "K-6407",
+      "K-165",
+      "K-975",
+      "K-158",
+      "K-152",
+      "K-5327"
+    ]
+  },
+  {
+    "comboSku": "K-6486",
+    "actualWeight": 0.66,
+    "calculatedWeight": 0.22,
+    "difference": "0.44000",
+    "skus": [
+      "K-65",
+      "K-409"
+    ]
+  },
+  {
+    "comboSku": "K-5188",
+    "actualWeight": 3.99,
+    "calculatedWeight": 1.33,
+    "difference": "2.66000",
+    "skus": [
+      "K-5106",
+      "K-5127"
+    ]
+  },
+  {
+    "comboSku": "K-7059",
+    "actualWeight": 5.15,
+    "calculatedWeight": 0.515,
+    "difference": "4.63500",
+    "skus": [
+      "K-5187",
+      "K-6002"
+    ]
+  },
+  {
+    "comboSku": "K-7445",
+    "actualWeight": 5.599,
+    "calculatedWeight": 1.606,
+    "difference": "3.99300",
+    "skus": [
+      "K-1359",
+      "K-317",
+      "K-24",
+      "K-388",
+      "K-141"
+    ]
+  }
+]
