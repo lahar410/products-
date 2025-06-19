@@ -1,0 +1,132 @@
+category,sub_category,sku,parentSku,bulk,variant_name,displayName,grossWeight,netWeight,itemQty
+Fungicide,Bio Fungicide,K-7463,K-7463,BK-546,500 ml x 1,Katyayani Trichoderma harzianum 500 ml x 1,0.55,0.5,1
+Fungicide,Bio Fungicide,K-7460,K-7460,BK-486,500 gm x 1,Katyayani Trichoderma Viride Bio Fungicide Powder 500 gm x 1,0.55,0.5,1
+Fungicide,Bio Fungicide,K-7461,K-7461,BK-486,3 kg x 1,Katyayani Trichoderma Viride Bio Fungicide Powder 3 kg x 1,3.3,3,1
+Pesticide,Bio Insecticides,K-7565,K-7565,BK-901,25 kg x 1,Katyayani Temos - G ( Temephos 1% SG ) 25 kg x 1,27.5,25,1
+Pesticide,Bio Insecticides,K-5561,K-5560,BK-623,1KG x 3,Katyayani NEMOTODE PLUS (BIO PESTICIDES Verticillium Chlamydosporium 1% WP) 1KG x 3,3.3,3,3
+Pesticide,Bio Pest Control,K-7535,K-7535,BK-510,100gm x 1,Katyayani BT Bio Insecticide | Bacillus thuringiensis israelensis (Bti) kg 100gm x 1,0.11,0.1,1
+Pesticide,Chemical Insecticides,K-7566,K-7310,BK-883,100ml x 2,Katyayani Thiamethoxam 30% FS - Docter 100ml x 2,0.22,0.2,2
+Pesticide,Chemical Insecticides,K-7567,K-7310,BK-883,100 ml x 4,Katyayani Thiamethoxam 30% FS - Docter 100 ml x 4,0.44,0.4,4
+Pesticide,Chemical Insecticides,K-7654,K-353,BK-626,40gm x 25,Katyayani Nashak (Fipronil 40% + Imidacloprid 40%) 40gm x 25,1.1,1,25
+Pesticide,Chemical Insecticides,K-7564,K-7564,BK-104,40 ml x 1,Katyayani Flubendiamide 39.35 % sc – Fluben 40 ml x 1,0.044,0.04,1
+Pesticide,Chemical Insecticides,K-7552,K-7552,BK-23,100gm x 1,Katyayani Alphacypermethrin 5% WP 100gm x 1,0.11,0.1,1
+Pesticide,Chemical Insecticides,K-7651,K-5872,BK-855,1kg x 4,Katyayani THIAMETHOXAM 0.9% + FIPRONIL 0.2% GR (THIONIL) 1kg x 4,4.4,4,4
+Pesticide,Chemical Insecticides,K-7652,K-5872,BK-855,1kg x 6,Katyayani THIAMETHOXAM 0.9% + FIPRONIL 0.2% GR (THIONIL) 1kg x 6,6.6,6,6
+Pesticide,Chemical Insecticides,K-7653,K-5872,BK-855,1kg x 12,Katyayani THIAMETHOXAM 0.9% + FIPRONIL 0.2% GR (THIONIL) 1kg x 12,13.2,12,12
+Pesticide,Chemical Insecticides,K-7570,K-7571,BK-894,300 ml x 1,Katyayani Chakraveer (Chlorantraniliprole 18.5 % SC ) 300 ml x 1,0.33,0.3,1
+Pesticide,Chemical Insecticides,K-7571,K-7571,BK-894,300 ml x 2,Katyayani Chakraveer (Chlorantraniliprole 18.5 % SC ) 300 ml x 2,0.66,0.6,2
+Pesticide,chemical Insecticides,K-7542,K-7542,BK-1078,1 kg  x 1,Katyayani fipronil 0.6% w/w gr 1 kg x 1,1.1,1,1
+Pesticide,chemical Insecticides,K-7543,K-7543,BK-1078,4 kg  x 1,Katyayani fipronil 0.6% w/w gr 4 kg x 1,4.4,4,1
+Herbicide,Herbicides,K-7563,K-7563,BK-174,100 gm x 1,Katyayani Metribuzin 70% WP - METZIN 100 gm x 1,0.1,0.1,1
+Pesticide,Organic Pest Control,K-7569,K-7569,BK-84,50 kg x 1,Katyayani Snake Repellent Powder 50 kg x 1,55,50,1
+Seeds,Seeds,G-827,G-827,BK-182,50gm x1,Katyayani Lupin Pixie Mix seeds 50gm x1,0.05,0.05,1
+Seeds,Seeds,G-828,G-828,BK-182,100gm x1,Katyayani Lupin Pixie Mix seeds 100gm x1,0.1,0.1,1
+Seeds,Seeds,G-829,G-829,BK-182,500gm x1,Katyayani Lupin Pixie Mix seeds 500gm x1,0.5,0.5,1
+Pesticide,Chemical Insecticides,G-830,G-830,BK-682,100 ml x1,Katyayani ALPHA CHLO (Alphacypermethrin 1% + Chlorpyriphos 16% EC) 100 ml x1,0.1,0.1,1
+Pesticide,Chemical Insecticides,G-831,G-831,BK-682,500 ml x1,Katyayani ALPHA CHLO (Alphacypermethrin 1% + Chlorpyriphos 16% EC) 500 ml x1,0.5,0.5,1
+other Products,Other Product,G-832,G-832,BK-610,100 gm x1,Katyayani Imli Powder 100 gm x1,0.1,0.1,1
+other Products,Other Product,G-833,G-833,BK-610,500 gm x1,Katyayani Imli Powder 500 gm x1,0.5,0.5,1
+other Products,Other Product,G-834,G-834,BK-610,1 kg x1,Katyayani Imli Powder 1 kg x1,1.1,1,1
+other Products,Other Product,G-835,G-835,BK-417,113 gm x1,Katyayani Sodium lauryl sulfate 113 gm x1,0.113,0.113,1
+other Products,Other Product,G-836,G-836,BK-417,500 gm x1,Katyayani Sodium lauryl sulfate 500 gm x1,0.5,0.5,1
+other Products,Other Product,G-837,G-837,BK-601,100 gm x1,Katyayani Mulethi powder (Black) 100 gm x1,0.1,0.1,1
+other Products,Other Product,G-838,G-838,BK-601,500 gm x1,Katyayani Mulethi powder (Black) 500 gm x1,0.5,0.5,1
+other Products,Other Product,G-839,G-839,BK-601,1 kg x1,Katyayani Mulethi powder (Black) 1 kg x1,1.1,1,1
+other Products,Other Product,G-840,G-840,BK-600,227 gm x1,Katyayani Mulethi powder (Brown) 227 gm x1,0.227,0.227,1
+other Products,Other Product,G-841,G-841,BK-600,500 gm x1,Katyayani Mulethi powder (Brown) 500 gm x1,0.5,0.5,1
+other Products,Other Product,G-842,G-842,BK-600,1 kg x1,Katyayani Mulethi powder (Brown) 1 kg x1,1.1,1,1
+other Products,Other Product,G-843,G-843,BK-461,250 gm x1,Katyayani Maca Powder 250 gm x1,0.25,0.25,1
+other Products,Other Product,G-844,G-844,BK-461,500 gm x1,Katyayani Maca Powder 500 gm x1,0.5,0.5,1
+other Products,Other Product,G-845,G-845,BK-461,1 kg x1,Katyayani Maca Powder 1 kg x1,1.1,1,1
+other Products,Other Product,G-846,G-846,BK-442,500 gm x1,Katyayani Sodium Silicate 500 gm x1,0.5,0.5,1
+other Products,Other Product,G-847,G-847,BK-356,500 gm x1,Katyayani Ammonium Bicarbonate powder 500 gm x1,0.5,0.5,1
+other Products,Other Product,G-848,G-848,BK-356,1 kg x1,Katyayani Ammonium Bicarbonate powder 1 kg x1,1.1,1,1
+Seeds,Seeds,G-849,G-849,BK-327,4450 mg x1,Katyayani Pithecellobium Saman Seeds - 100 g_Tree and Grass seeds 4450 mg x1,0.004895,0.00445,1
+Seeds,Seeds,G-850,G-850,BK-327,8900 mg x1,Katyayani Pithecellobium Saman Seeds - 100 g_Tree and Grass seeds 8900 mg x1,0.00979,0.0089,1
+Seeds,Seeds,G-851,G-851,BK-327,17800 mg x1,Katyayani Pithecellobium Saman Seeds - 100 g_Tree and Grass seeds 17800 mg x1,0.01958,0.0178,1
+Seeds,Seeds,G-852,G-852,BK-312,3800 mg x1,Katyayani Indian Laburnum Seeds (Cassia Fistula) - 100 g_Tree and Grass seeds 3800 mg x1,0.00418,0.0038,1
+Seeds,Seeds,G-853,G-853,BK-312,9500 mg x1,Katyayani Indian Laburnum Seeds (Cassia Fistula) - 100 g_Tree and Grass seeds 9500 mg x1,0.01045,0.0095,1
+Seeds,Seeds,G-854,G-854,BK-312,19000 mg x1,Katyayani Indian Laburnum Seeds (Cassia Fistula) - 100 g_Tree and Grass seeds 19000 mg x1,0.0209,0.019,1
+Seeds,Seeds,G-855,G-855,BK-304,1500 mg x1,Katyayani Papaya seeds_Fruit seeds 1500 mg x1,0.00165,0.0015,1
+Seeds,Seeds,G-856,G-856,BK-304,3000 mg x1,Katyayani Papaya seeds_Fruit seeds 3000 mg x1,0.0033,0.003,1
+Seeds,Seeds,G-857,G-857,BK-304,4500 mg x1,Katyayani Papaya seeds_Fruit seeds 4500 mg x1,0.00495,0.0045,1
+Seeds,Seeds,G-858,G-858,BK-239,1200 mg x1,Katyayani Ash Gourd Seeds_Vegitable Seed 1200 mg x1,0.00132,0.0012,1
+Seeds,Seeds,G-859,G-859,BK-239,3000 mg x1,Katyayani Ash Gourd Seeds_Vegitable Seed 3000 mg x1,0.0033,0.003,1
+Seeds,Seeds,G-860,G-860,BK-239,6000 mg x1,Katyayani Ash Gourd Seeds_Vegitable Seed 6000 mg x1,0.0066,0.006,1
+Seeds,Seeds,G-861,G-861,BK-233,4000 mg x1,Katyayani Drumstick Seeds (Moringa)_Vegitable Seed 4000 mg x1,0.0044,0.004,1
+Seeds,Seeds,G-862,G-862,BK-233,10000 mg x1,Katyayani Drumstick Seeds (Moringa)_Vegitable Seed 10000 mg x1,0.011,0.01,1
+Seeds,Seeds,G-863,G-863,BK-233,20000 mg x1,Katyayani Drumstick Seeds (Moringa)_Vegitable Seed 20000 mg x1,0.022,0.02,1
+Seeds,Seeds,G-864,G-864,BK-231,55200 mg x1,Katyayani Cauliflower Seeds_Vegitable Seed 55200 mg x1,0.06072,0.0552,1
+Seeds,Seeds,G-865,G-865,BK-231,138000 mg x1,Katyayani Cauliflower Seeds_Vegitable Seed 138000 mg x1,0.1518,0.138,1
+Seeds,Seeds,G-866,G-866,BK-231,276000 mg x1,Katyayani Cauliflower Seeds_Vegitable Seed 276000 mg x1,0.3036,0.276,1
+Seeds,Seeds,G-867,G-867,BK-228,2600 mg x1,Katyayani Bittergourd Seeds (Green Long)_Vegitable Seed 2600 mg x1,0.00286,0.0026,1
+Seeds,Seeds,G-868,G-868,BK-228,6500 mg x1,Katyayani Bittergourd Seeds (Green Long)_Vegitable Seed 6500 mg x1,0.00715,0.0065,1
+Seeds,Seeds,G-869,G-869,BK-228,13000 mg x1,Katyayani Bittergourd Seeds (Green Long)_Vegitable Seed 13000 mg x1,0.0143,0.013,1
+Seeds,Seeds,G-870,G-870,BK-220,2000 mg x1,Katyayani Bottlegourd Seeds (Long)_Vegitable Seed 2000 mg x1,0.0022,0.002,1
+Seeds,Seeds,G-871,G-871,BK-220,5000 mg x1,Katyayani Bottlegourd Seeds (Long)_Vegitable Seed 5000 mg x1,0.0055,0.005,1
+Seeds,Seeds,G-872,G-872,BK-220,10000 mg x1,Katyayani Bottlegourd Seeds (Long)_Vegitable Seed 10000 mg x1,0.011,0.01,1
+Seeds,Seeds,G-873,G-873,BK-219,1600 mg x1,Katyayani French Bean Seeds_Vegitable Seed 1600 mg x1,0.00176,0.0016,1
+Seeds,Seeds,G-874,G-874,BK-219,4000 mg x1,Katyayani French Bean Seeds_Vegitable Seed 4000 mg x1,0.0044,0.004,1
+Seeds,Seeds,G-875,G-875,BK-219,8000 mg x1,Katyayani French Bean Seeds_Vegitable Seed 8000 mg x1,0.0088,0.008,1
+Seeds,Seeds,G-876,G-876,BK-217,140 mg x1,Katyayani Beetroot Seeds_Vegitable Seed 140 mg x1,0.000154,0.00014,1
+Seeds,Seeds,G-877,G-877,BK-217,350 mg x1,Katyayani Beetroot Seeds_Vegitable Seed 350 mg x1,0.000385,0.00035,1
+Seeds,Seeds,G-878,G-878,BK-217,700 mg x1,Katyayani Beetroot Seeds_Vegitable Seed 700 mg x1,0.00077,0.0007,1
+Seeds,Seeds,G-879,G-879,BK-210,220 mg x1,Katyayani Coriander Seeds_Vegitable Seed 220 mg x1,0.000242,0.00022,1
+Seeds,Seeds,G-880,G-880,BK-210,550 mg x1,Katyayani Coriander Seeds_Vegitable Seed 550 mg x1,0.000605,0.00055,1
+Seeds,Seeds,G-881,G-881,BK-210,1100 mg x1,Katyayani Coriander Seeds_Vegitable Seed 1100 mg x1,0.00121,0.0011,1
+Seeds,Seeds,G-882,G-882,BK-208,260 mg x1,Katyayani Spinach Seeds_Vegitable Seed 260 mg x1,0.000286,0.00026,1
+Seeds,Seeds,G-883,G-883,BK-208,650 mg x1,Katyayani Spinach Seeds_Vegitable Seed 650 mg x1,0.000715,0.00065,1
+Seeds,Seeds,G-884,G-884,BK-208,1300 mg x1,Katyayani Spinach Seeds_Vegitable Seed 1300 mg x1,0.00143,0.0013,1
+Seeds,Seeds,G-885,G-885,BK-189,100 mg x1,Katyayani Statice Mix Seeds_Flowering Seed 100 mg x1,0.00011,0.0001,1
+Seeds,Seeds,G-886,G-886,BK-189,250 mg x1,Katyayani Statice Mix Seeds_Flowering Seed 250 mg x1,0.000275,0.00025,1
+Seeds,Seeds,G-887,G-887,BK-189,500 mg x1,Katyayani Statice Mix Seeds_Flowering Seed 500 mg x1,0.00055,0.0005,1
+Seeds,Seeds,G-888,G-888,BK-167,166 mg x1,Katyayani Balsam Mix Seeds_Flowering Seed 166 mg x1,0.0001826,0.000166,1
+Seeds,Seeds,G-889,G-889,BK-167,415 mg x1,Katyayani Balsam Mix Seeds_Flowering Seed 415 mg x1,0.0004565,0.000415,1
+Seeds,Seeds,G-890,G-890,BK-167,830 mg x1,Katyayani Balsam Mix Seeds_Flowering Seed 830 mg x1,0.000913,0.00083,1
+Seeds,Seeds,G-891,G-891,BK-166,280 mg x1,Katyayani Sunflower Sungold Seeds_Flowering Seed 280 mg x1,0.000308,0.00028,1
+Seeds,Seeds,G-892,G-892,BK-166,700 mg x1,Katyayani Sunflower Sungold Seeds_Flowering Seed 700 mg x1,0.00077,0.0007,1
+Seeds,Seeds,G-893,G-893,BK-166,1400 mg x1,Katyayani Sunflower Sungold Seeds_Flowering Seed 1400 mg x1,0.00154,0.0014,1
+Seeds,Seeds,G-894,G-894,BK-164,140 mg x1,Katyayani Zinnia Lilliput Mix Seeds_Flowering Seed 140 mg x1,0.000154,0.00014,1
+Seeds,Seeds,G-895,G-895,BK-164,350 mg x1,Katyayani Zinnia Lilliput Mix Seeds_Flowering Seed 350 mg x1,0.000385,0.00035,1
+Seeds,Seeds,G-896,G-896,BK-164,700 mg x1,Katyayani Zinnia Lilliput Mix Seeds_Flowering Seed 700 mg x1,0.00077,0.0007,1
+other Products,Other Product,G-744,G-744,BK-416,25 kg x 1,Katyayani HydroxyEthyl Cellulose 25 kg x 1,27.5,25,1
+Fertilizer,Plant Growth Regulator,K-7539,K-7539,BK-470,250 ml x 1,Katyayani Fast - Paclobutrazol 23% SC 250 ml x 1,0.275,0.25,1
+Pesticide,Chemical Insecticides,K-7573,K-7276,BK-957,25 gm x 10,Katyayani CARTAZEN 10 | Cartap Hydrochloride 50% + Buprofenzin 10% WP 25 gm x 10,0.275,0.25,10
+Pesticide,Chemical Insecticides,K-7574,K-7276,BK-957,25 gm x 20,Katyayani CARTAZEN 10 | Cartap Hydrochloride 50% + Buprofenzin 10% WP 25 gm x 20,0.55,0.5,20
+Pesticide,Chemical Insecticides,K-7575,K-7276,BK-957,25 gm x 50,Katyayani CARTAZEN 10 | Cartap Hydrochloride 50% + Buprofenzin 10% WP 25 gm x 50,1.375,1.25,50
+Fertilizer,Plant Growth Regulator,K-7577,K-7577,BK-1065,5 gm x 1,Katyayani Gibberellic Acid 90% 5 gm x 1,0.0055,0.005,1
+Fertilizer,Plant Growth Regulator,K-7578,K-7577,BK-1065,5 gm x 3,Katyayani Gibberellic Acid 90% 5 gm x 3,0.0165,0.015,3
+Fertilizer,Plant Growth Regulator,K-7579,K-7577,BK-1065,5 gm x 5,Katyayani Gibberellic Acid 90% 5 gm x 5,0.0275,0.025,5
+Fertilizer,Plant Growth Regulator,K-7580,K-7577,BK-1065,5 gm x 10,Katyayani Gibberellic Acid 90% 5 gm x 10,0.055,0.05,10
+Fertilizer,Micro nutrients,K-7585,K-7585,,3 Kg x 1,Katyayani SulfoGold 90 | Sulphur Bucket - sulphur 90 wdg 3 Kg x 1,3.3,3,1
+Fertilizer,Micro nutrients,K-7586,K-7585,,3 Kg x 2,Katyayani SulfoGold 90 | Sulphur Bucket - sulphur 90 wdg 3 Kg x 2,6.6,6,2
+Fertilizer,Micro nutrients,K-7587,K-7585,,3 Kg x 3,Katyayani SulfoGold 90 | Sulphur Bucket - sulphur 90 wdg 3 Kg x 3,9.9,9,3
+Fertilizer,Micro nutrients,K-7588,K-7585,,3 Kg x 5,Katyayani SulfoGold 90 | Sulphur Bucket - sulphur 90 wdg 3 Kg x 5,16.5,15,5
+Fertilizer,Micro nutrients,K-7589,K-7589,,5 kg X 1,S,5.5,5,1
+Fertilizer,Micro nutrients,K-7590,K-7589,,5 Kg X 2,Katyayani SulfoGold 90 | Sulphur Bucket - sulphur 90 wdg 5 Kg X 2,11,10,2
+Fertilizer,Micro nutrients,K-7591,K-7589,,5 Kg x 3,Katyayani SulfoGold 90 | Sulphur Bucket - sulphur 90 wdg 5 Kg x 3,16.5,15,3
+Fertilizer,Micro nutrients,K-7592,K-7589,,5 kg X 4,Katyayani SulfoGold 90 | Sulphur Bucket - sulphur 90 wdg 5 kg X 4,22,20,4
+Fertilizer,Micro nutrients,K-7593,K-7589,,25 Kg X 1,Katyayani SulfoGold 90 | Sulphur Bucket - sulphur 90 wdg 25 Kg X 1,27.5,25,1
+Fertilizer,Micro nutrients,K-7594,K-7594,,5 lit x 1,Katyayani CALSOATE | Calcium Thiosulphate 5 lit x 1,5.5,5,1
+Fertilizer,Micro nutrients,K-7595,K-7594,,5 lit x 3,Katyayani CALSOATE | Calcium Thiosulphate 5 lit x 3,16.5,15,3
+Fertilizer,Micro nutrients,K-7596,K-7594,,5 lit x 5,Katyayani CALSOATE | Calcium Thiosulphate 5 lit x 5,27.5,25,5
+Fertilizer,Micro nutrients,K-7597,K-7594,,5 lit x 10,Katyayani CALSOATE | Calcium Thiosulphate 5 lit x 10,55,50,10
+Fertilizer,Organic fertilizer ,K-7598,K-7663,,4 KG x 1,Katyayani JEEVITA 4 KG x 1,4.4,4,1
+Fertilizer,Organic fertilizer ,K-7598,K-7663,,4 KG x  20,Katyayani JEEVITA 4 KG x 20,88,80,20
+Fertilizer,Organic fertilizer ,K-7599,K-7663,,4 KG x  50,Katyayani JEEVITA 4 KG x 50,220,200,50
+Fungicide,Bio Fungicide,K-7462,K-7462,BK-867,500 ml x 1,Katyayani Pseudomonas fluorescence 500 ml x 1,0.55,0.5,1
+Fungicide,Chemical Fungicide,K-7600,,,500 GM X 50,Katyayani DIMITRAN | Metiram 44% + Dimethomorph 9% WG 500 GM X 50,27.5,25,50
+Fungicide,Chemical Fungicide,K-7601,,,250 GM x 50,Katyayani CAPZOLE | Captan 70% + Hexaconazole 5% WP 250 GM x 50,13.75,12.5,50
+Fungicide,Chemical Fungicide,K-7602,K-7602,BK-1090,500 ML x 1,Katyayani MYCINMAX | Kasugamycin 3% SL 500 ML x 1,0.55,0.5,1
+Fungicide,Chemical Fungicide,K-7603,K-7602,BK-1090,500Ml X 2,Katyayani MYCINMAX | Kasugamycin 3% SL 500Ml X 2,1.1,1,2
+Fungicide,Chemical Fungicide,K-7604,K-7602,BK-1090,500Ml X 4,Katyayani MYCINMAX | Kasugamycin 3% SL 500Ml X 4,2.2,2,4
+Fungicide,Chemical Fungicide,K-7605,K-7602,BK-1090,500 ML x 10,Katyayani MYCINMAX | Kasugamycin 3% SL 500 ML x 10,5.5,5,10
+Fungicide,Chemical Fungicide,K-7606,K-7606,BK-1090,1L X 1,Katyayani MYCINMAX | Kasugamycin 3% SL 1L X 1,1.1,1,1
+Fungicide,Chemical Fungicide,K-7607,K-7606,BK-1090,1L X 2,Katyayani MYCINMAX | Kasugamycin 3% SL 1L X 2,2.2,2,2
+Fungicide,Chemical Fungicide,K-7608,K-7606,BK-1090,1L X 3,Katyayani MYCINMAX | Kasugamycin 3% SL 1L X 3,3.3,3,3
+Fungicide,Chemical Fungicide,K-7609,K-7606,BK-1090,1 L X 10,Katyayani MYCINMAX | Kasugamycin 3% SL 1 L X 10,11,10,10
+Fungicide,Chemical Fungicide,K-7610,K-6667,BK-767,500 ML x 2,Katyayani Omnimycin | Validamycin 3 % 500 ML x 2,1.1,1,2
+Fungicide,Chemical Fungicide,K-7611,K-6667,BK-767,500 ML x 10,Katyayani Omnimycin | Validamycin 3 % 500 ML x 10,5.5,5,10
+Fungicide,Chemical Fungicide,K-7612,K-6666,BK-767,1 lit X 2,Katyayani Omnimycin | Validamycin 3 % 1 lit X 2,2.2,2,2
+Fungicide,Chemical Fungicide,K-7613,K-6666,BK-767,1 lit X 5,Katyayani Omnimycin | Validamycin 3 % 1 lit X 5,5.5,5,5
+Fungicide,Chemical Fungicide,K-7614,K-6666,BK-767,1 lit X 10,Katyayani Omnimycin | Validamycin 3 % 1 lit X 10,11,10,10
